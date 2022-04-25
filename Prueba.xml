@@ -14,6 +14,8 @@
 
 <channel id="DirectvSports.co"><display-name>Directv Sports CO</display-name><icon src="https://static.epg.best/co/DirectvSports.co.png"/></channel>
 
+<channel id="DirectvSports2.co"><display-name>Directv Sports 2 CO</display-name><icon src="https://static.epg.best/co/DirectvSports2.co.png"/></channel>
+
 <channel id="DirectvSportsPlus.co"><display-name>Directv Sports+ CO</display-name><icon src="https://static.epg.best/co/DirectvSportsPlus.co.png"/></channel>
 
 <channel id="DiscoveryTurboLatinAmerica.pa"><display-name>Discovery Turbo Lat.Am. PA</display-name><icon src="https://static.epg.best/pa/DiscoveryTurboLatinAmerica.pa.png"/></channel>
@@ -340,23 +342,23 @@
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/co_protagonistas_l_m.jpg"/>
   <desc/></programme>
-<programme start="20220426070000 +0200" stop="20220426070000 +0200" channel="AZMundo.mx">
-    <title lang="es">Gata salvaje</title>
-    <desc lang="es">Una jovencita que tendrá que luchar por recuperar la felicidad, por mantenerse íntegra en medio del odio y la ambición. Deberá superar la maldad e hipocresía de la familia Arismendi. Es reconocida como una mujer que se enfrenta a la vida con valentía</desc>
-    <category lang="es">Telenovela</category>
-    <icon src="https://cdn.mitvstatic.com/programs/co_gata-salvaje_l_m.jpg"/>
-  </programme>
-<programme start="20220426070000 +0200" stop="20220426070000 +0200" channel="AZMundo.mx">
-    <title lang="es">Acércate a Rocío</title>
-    <desc lang="es">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el cual, podrás acercarte, para que con ella, hables de todo lo que te preocupa, y juntas o juntos, puedan encontrar una solución</desc>
-    <category lang="es">Entretenimientos</category>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
-  </programme>
 <programme start="20220426070000 +0200" stop="20220426083000 +0200" channel="AZMundo.mx">
     <title lang="es">Acércate a Rocío</title>
     <desc lang="es">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el cual, podrás acercarte, para que con ella, hables de todo lo que te preocupa, y juntas o juntos, puedan encontrar una solución</desc>
     <category lang="es">Entretenimientos</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+<programme start="20220426070000 +0200" stop="20220426070000 +0200" channel="AZMundo.mx">
+    <title lang="es">Acércate a Rocío</title>
+    <desc lang="es">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el cual, podrás acercarte, para que con ella, hables de todo lo que te preocupa, y juntas o juntos, puedan encontrar una solución</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+<programme start="20220426070000 +0200" stop="20220426070000 +0200" channel="AZMundo.mx">
+    <title lang="es">Gata salvaje</title>
+    <desc lang="es">Una jovencita que tendrá que luchar por recuperar la felicidad, por mantenerse íntegra en medio del odio y la ambición. Deberá superar la maldad e hipocresía de la familia Arismendi. Es reconocida como una mujer que se enfrenta a la vida con valentía</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/co_gata-salvaje_l_m.jpg"/>
   </programme>
 <programme start="20220426083000 +0200" stop="20220426093000 +0200" channel="AZMundo.mx">
     <title lang="es">Gata salvaje</title>
@@ -483,16 +485,16 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
 <programme start="20220427070000 +0200" stop="20220427070000 +0200" channel="AZMundo.mx">
-    <title lang="es">Acércate a Rocío</title>
-    <desc lang="es">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el cual, podrás acercarte, para que con ella, hables de todo lo que te preocupa, y juntas o juntos, puedan encontrar una solución</desc>
-    <category lang="es">Entretenimientos</category>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
-  </programme>
-<programme start="20220427070000 +0200" stop="20220427070000 +0200" channel="AZMundo.mx">
     <title lang="es">Gata salvaje</title>
     <desc lang="es">Una jovencita que tendrá que luchar por recuperar la felicidad, por mantenerse íntegra en medio del odio y la ambición. Deberá superar la maldad e hipocresía de la familia Arismendi. Es reconocida como una mujer que se enfrenta a la vida con valentía</desc>
     <category lang="es">Telenovela</category>
     <icon src="https://cdn.mitvstatic.com/programs/co_gata-salvaje_l_m.jpg"/>
+  </programme>
+<programme start="20220427070000 +0200" stop="20220427070000 +0200" channel="AZMundo.mx">
+    <title lang="es">Acércate a Rocío</title>
+    <desc lang="es">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el cual, podrás acercarte, para que con ella, hables de todo lo que te preocupa, y juntas o juntos, puedan encontrar una solución</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
 <programme start="20220427083000 +0200" stop="20220427093000 +0200" channel="AZMundo.mx">
     <title lang="es">Gata salvaje</title>
@@ -619,16 +621,16 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
 <programme start="20220428070000 +0200" stop="20220428070000 +0200" channel="AZMundo.mx">
-    <title lang="es">Gata salvaje</title>
-    <desc lang="es">Una jovencita que tendrá que luchar por recuperar la felicidad, por mantenerse íntegra en medio del odio y la ambición. Deberá superar la maldad e hipocresía de la familia Arismendi. Es reconocida como una mujer que se enfrenta a la vida con valentía</desc>
-    <category lang="es">Telenovela</category>
-    <icon src="https://cdn.mitvstatic.com/programs/co_gata-salvaje_l_m.jpg"/>
-  </programme>
-<programme start="20220428070000 +0200" stop="20220428070000 +0200" channel="AZMundo.mx">
     <title lang="es">Acércate a Rocío</title>
     <desc lang="es">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el cual, podrás acercarte, para que con ella, hables de todo lo que te preocupa, y juntas o juntos, puedan encontrar una solución</desc>
     <category lang="es">Entretenimientos</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+<programme start="20220428070000 +0200" stop="20220428070000 +0200" channel="AZMundo.mx">
+    <title lang="es">Gata salvaje</title>
+    <desc lang="es">Una jovencita que tendrá que luchar por recuperar la felicidad, por mantenerse íntegra en medio del odio y la ambición. Deberá superar la maldad e hipocresía de la familia Arismendi. Es reconocida como una mujer que se enfrenta a la vida con valentía</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/co_gata-salvaje_l_m.jpg"/>
   </programme>
 <programme start="20220428083000 +0200" stop="20220428093000 +0200" channel="AZMundo.mx">
     <title lang="es">Gata salvaje</title>
@@ -755,16 +757,16 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
 <programme start="20220429070000 +0200" stop="20220429070000 +0200" channel="AZMundo.mx">
-    <title lang="es">Gata salvaje</title>
-    <desc lang="es">Una jovencita que tendrá que luchar por recuperar la felicidad, por mantenerse íntegra en medio del odio y la ambición. Deberá superar la maldad e hipocresía de la familia Arismendi. Es reconocida como una mujer que se enfrenta a la vida con valentía</desc>
-    <category lang="es">Telenovela</category>
-    <icon src="https://cdn.mitvstatic.com/programs/co_gata-salvaje_l_m.jpg"/>
-  </programme>
-<programme start="20220429070000 +0200" stop="20220429070000 +0200" channel="AZMundo.mx">
     <title lang="es">Acércate a Rocío</title>
     <desc lang="es">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el cual, podrás acercarte, para que con ella, hables de todo lo que te preocupa, y juntas o juntos, puedan encontrar una solución</desc>
     <category lang="es">Entretenimientos</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+<programme start="20220429070000 +0200" stop="20220429070000 +0200" channel="AZMundo.mx">
+    <title lang="es">Gata salvaje</title>
+    <desc lang="es">Una jovencita que tendrá que luchar por recuperar la felicidad, por mantenerse íntegra en medio del odio y la ambición. Deberá superar la maldad e hipocresía de la familia Arismendi. Es reconocida como una mujer que se enfrenta a la vida con valentía</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/co_gata-salvaje_l_m.jpg"/>
   </programme>
 <programme start="20220429083000 +0200" stop="20220429093000 +0200" channel="AZMundo.mx">
     <title lang="es">Gata salvaje</title>
@@ -884,6 +886,12 @@
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/co_protagonistas_l_m.jpg"/>
   <desc/></programme>
+<programme start="20220430070000 +0200" stop="20220430083000 +0200" channel="AZMundo.mx">
+    <title lang="es">Acércate a Rocío</title>
+    <desc lang="es">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el cual, podrás acercarte, para que con ella, hables de todo lo que te preocupa, y juntas o juntos, puedan encontrar una solución</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
 <programme start="20220430070000 +0200" stop="20220430070000 +0200" channel="AZMundo.mx">
     <title lang="es">Gata salvaje</title>
     <desc lang="es">Una jovencita que tendrá que luchar por recuperar la felicidad, por mantenerse íntegra en medio del odio y la ambición. Deberá superar la maldad e hipocresía de la familia Arismendi. Es reconocida como una mujer que se enfrenta a la vida con valentía</desc>
@@ -891,12 +899,6 @@
     <icon src="https://cdn.mitvstatic.com/programs/co_gata-salvaje_l_m.jpg"/>
   </programme>
 <programme start="20220430070000 +0200" stop="20220430070000 +0200" channel="AZMundo.mx">
-    <title lang="es">Acércate a Rocío</title>
-    <desc lang="es">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el cual, podrás acercarte, para que con ella, hables de todo lo que te preocupa, y juntas o juntos, puedan encontrar una solución</desc>
-    <category lang="es">Entretenimientos</category>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
-  </programme>
-<programme start="20220430070000 +0200" stop="20220430083000 +0200" channel="AZMundo.mx">
     <title lang="es">Acércate a Rocío</title>
     <desc lang="es">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el cual, podrás acercarte, para que con ella, hables de todo lo que te preocupa, y juntas o juntos, puedan encontrar una solución</desc>
     <category lang="es">Entretenimientos</category>
@@ -7167,6 +7169,519 @@
 <programme start="20220430033000 +0200" stop="20220430040000 +0200" channel="DirectvSports.co">
     <title lang="en">Todo en 30</title>
     <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports [(124033)]</desc>
+  </programme>
+<programme start="20220424020000 +0200" stop="20220424040000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Fútbol Argentino</title>
+    <sub-title lang="en">Primera C: Real Pilar vs. Sportivo Italiano</sub-title>
+    <desc lang="en">Acción correspondiente a la Jornada 11 del Torneo Apertura en la Primera C</desc>
+  </programme>
+<programme start="20220424040000 +0200" stop="20220424043000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Diario NBA</title>
+    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta</desc>
+  </programme>
+<programme start="20220424043000 +0200" stop="20220424050000 +0200" channel="DirectvSports2.co">
+    <title lang="en">FIBA Basketball</title>
+    <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto</desc>
+  </programme>
+<programme start="20220424050000 +0200" stop="20220424070000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Baloncesto Euroliga</title>
+    <sub-title lang="en">Barcelona vs. Bayern München</sub-title>
+    <desc lang="en">Jornada 24 de la Euroliga. Barca enfrenta a Bayern München en el Palau Blaugrana</desc>
+  </programme>
+<programme start="20220424070000 +0200" stop="20220424090000 +0200" channel="DirectvSports2.co">
+    <title lang="en">El chiringuito de jugones</title>
+    <desc lang="en">Programa deportivo en el que se trata toda la información y las noticias más importantes acerca de los equipos de fútbol español. Ocho tertulianos aportarán su punto de vista sobre los temas a tratar</desc>
+  </programme>
+<programme start="20220424090000 +0200" stop="20220424093000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Vamos a la Caye :</title>
+    <sub-title lang="en">Martín Galmarini</sub-title>
+    <desc lang="en">El programa de entrevistas más descontracturado y particular, con los testimonios más originales. Las principales figuras del mundo del deporte repasan su carrera, relatan las mejores anécdotas y cuentan historias, hasta entonces, inéditas</desc>
+  </programme>
+<programme start="20220424093000 +0200" stop="20220424100000 +0200" channel="DirectvSports2.co">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados</desc>
+  </programme>
+<programme start="20220424100000 +0200" stop="20220424110000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Maratón de París</title>
+    <sub-title lang="en">2022</sub-title>
+    <desc lang="en">Lo mejor de la acción de la carrera de 2022 del Maratón de París</desc>
+  </programme>
+<programme start="20220424110000 +0200" stop="20220424130000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Baloncesto Euroliga</title>
+    <sub-title lang="en">AX Armani Exchange Milan vs. Anadolu Efes Istanbul</sub-title>
+    <desc lang="en">Acción correspondiente a la fase de playoffs. AX Armani Exchange Milan enfrenta a Anadolu Efes Istanbul. Desde Milán, en Italia</desc>
+  </programme>
+<programme start="20220424130000 +0200" stop="20220424140000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Real Madrid TV</title>
+    <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto</desc>
+  </programme>
+<programme start="20220424140000 +0200" stop="20220424160000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Fútbol Español Segunda División</title>
+    <sub-title lang="en">Tenerife vs. Huesca</sub-title>
+    <desc lang="en">Jornada 37 en la Segunda División. Tenerife recibe a Huesca en el Heliodoro Rodríguez López. El equipo aragonés, noveno con 49 puntos, visita al conjunto chicharrero, cuarto con 62 puntos</desc>
+  </programme>
+<programme start="20220424160000 +0200" stop="20220424170000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Fórmula Regional Europea</title>
+    <sub-title lang="en">Monza, carrera 2</sub-title>
+    <desc lang="en">Acción de la segunda carrera de la fecha 1 del calendario 2022 de la Fórmula Regional Europea. Desde el Autódromo Nacional de Monza</desc>
+  </programme>
+<programme start="20220424170000 +0200" stop="20220424180000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Maratón de París</title>
+    <sub-title lang="en">2022</sub-title>
+    <desc lang="en">Lo mejor de la acción de la carrera de 2022 del Maratón de París</desc>
+  </programme>
+<programme start="20220424180000 +0200" stop="20220424200000 +0200" channel="DirectvSports2.co">
+    <title lang="en">El chiringuito de jugones</title>
+  <desc/></programme>
+<programme start="20220424200000 +0200" stop="20220424220000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Baloncesto Euroliga</title>
+    <sub-title lang="en">Olympiacos vs. Monaco</sub-title>
+    <desc lang="en">Partido de ida correspondiente a la ronda de playoffs. Olympiacos recibe a Monaco</desc>
+  </programme>
+<programme start="20220424220000 +0200" stop="20220424223000 +0200" channel="DirectvSports2.co">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados</desc>
+  </programme>
+<programme start="20220424223000 +0200" stop="20220425003000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Baloncesto Euroliga</title>
+    <sub-title lang="en">Real Madrid vs. Maccabi Tel Aviv</sub-title>
+    <desc lang="en">Jornada 13 de la Euroliga. Real Madrid recibe a Maccabi Tel Aviv en el WiZink Center</desc>
+  </programme>
+<programme start="20220425003000 +0200" stop="20220425005000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Mobil 1 The Grid</title>
+    <desc lang="en">Destacados de deportes de motor a nivel nacional en un dinámico formato magazín</desc>
+  </programme>
+<programme start="20220425005000 +0200" stop="20220425030000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Fútbol Femenino Sudamericano Sub 20 2022</title>
+    <desc lang="en">Toda la acción del campeonato de fútbol juvenil para los equipos nacionales de mujeres menores de 20 años de la CONMEBOL. Desde Chile</desc>
+  </programme>
+<programme start="20220425030000 +0200" stop="20220425032000 +0200" channel="DirectvSports2.co">
+    <title lang="en">FIBA Basketball</title>
+    <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto</desc>
+  </programme>
+<programme start="20220425032000 +0200" stop="20220425054500 +0200" channel="DirectvSports2.co">
+    <title lang="en">Fútbol Femenino Sudamericano Sub 20 2022</title>
+    <sub-title lang="en">Venezuela vs. Brazil</sub-title>
+    <desc lang="en">Venezuela y Brasil se enfrentan en la última jornada de la Ronda Final en el Estadio Municipal Nicolás Chahuán Nazar, La Calera, Chile</desc>
+  </programme>
+<programme start="20220425054500 +0200" stop="20220425060000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Fútbol: Post</title>
+    <desc lang="en">Análisis posterior al espectáculo deportivo</desc>
+  </programme>
+<programme start="20220425060000 +0200" stop="20220425070000 +0200" channel="DirectvSports2.co">
+    <title lang="en">LaLiga Talking Football</title>
+    <sub-title lang="en">Bernd Schuster</sub-title>
+    <desc lang="en">Programa especial con el exjugador y entrenador alemán nacido en Augsburgo, Bernd \"El Ángel Rubio\" Schuster</desc>
+  </programme>
+<programme start="20220425070000 +0200" stop="20220425090000 +0200" channel="DirectvSports2.co">
+    <title lang="en">El chiringuito de jugones</title>
+    <desc lang="en">Programa deportivo en el que se trata toda la información y las noticias más importantes acerca de los equipos de fútbol español. Ocho tertulianos aportarán su punto de vista sobre los temas a tratar</desc>
+  </programme>
+<programme start="20220425090000 +0200" stop="20220425110000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Major League Rugby :</title>
+    <sub-title lang="en">Rugby ATL vs. San Diego Legion</sub-title>
+    <desc lang="en">Cobertura de los partidos de la Major League Rugby</desc>
+  </programme>
+<programme start="20220425110000 +0200" stop="20220425130000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Major League Rugby :</title>
+    <sub-title lang="en">New England Free Jacks vs. Rugby United New York</sub-title>
+    <desc lang="en">Jornada 12 de la Major League Rugby. New England Free Jacks enfrenta a Rugby United New York. Desde el JFK Stadium, en Hoboken</desc>
+  </programme>
+<programme start="20220425130000 +0200" stop="20220425140000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Real Madrid TV</title>
+    <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto</desc>
+  </programme>
+<programme start="20220425140000 +0200" stop="20220425160000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Fútbol Español La Liga</title>
+    <sub-title lang="en">Barcelona vs. Rayo Vallecano</sub-title>
+    <desc lang="en">Jornada 21 de LaLiga. Barcelona recibe a Rayo Vallecano en el estadio Camp Nou. El Rayito ganó por 1-0 en el útlimo enfrentamiento luego de 14 victorias seguidas de los culés</desc>
+  </programme>
+<programme start="20220425160000 +0200" stop="20220425170000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Ciclismo :</title>
+    <sub-title lang="en">Paris-Nice, etapa 8</sub-title>
+    <desc lang="en">Acción de la última etapa de la competencia. Recorrido de 115,6 kilómetros por Niza</desc>
+  </programme>
+<programme start="20220425170000 +0200" stop="20220425190000 +0200" channel="DirectvSports2.co">
+    <title lang="en">El chiringuito de jugones</title>
+  <desc/></programme>
+<programme start="20220425190000 +0200" stop="20220425193000 +0200" channel="DirectvSports2.co">
+    <title lang="en">FIBA Basketball</title>
+    <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto</desc>
+  </programme>
+<programme start="20220425193000 +0200" stop="20220425200000 +0200" channel="DirectvSports2.co">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados</desc>
+  </programme>
+<programme start="20220425200000 +0200" stop="20220425220000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Fútbol Español La Liga</title>
+    <sub-title lang="en">Barcelona vs. Rayo Vallecano</sub-title>
+    <desc lang="en">Jornada 21 de LaLiga. Barcelona recibe a Rayo Vallecano en el estadio Camp Nou. El Rayito ganó por 1-0 en el útlimo enfrentamiento luego de 14 victorias seguidas de los culés</desc>
+  </programme>
+<programme start="20220425220000 +0200" stop="20220425223000 +0200" channel="DirectvSports2.co">
+    <title lang="en">FIBA Basketball</title>
+    <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto</desc>
+  </programme>
+<programme start="20220425223000 +0200" stop="20220426003000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Fútbol Femenino Sudamericano Sub 20 2022</title>
+    <desc lang="en">Toda la acción del campeonato de fútbol juvenil para los equipos nacionales de mujeres menores de 20 años de la CONMEBOL. Desde Chile</desc>
+  </programme>
+<programme start="20220426003000 +0200" stop="20220426023000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Fútbol Femenino Sudamericano Sub 20 2022</title>
+    <desc lang="en">Toda la acción del campeonato de fútbol juvenil para los equipos nacionales de mujeres menores de 20 años de la CONMEBOL. Desde Chile</desc>
+  </programme>
+<programme start="20220426023000 +0200" stop="20220426030000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Diario NBA</title>
+    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta</desc>
+  </programme>
+<programme start="20220426030000 +0200" stop="20220426033000 +0200" channel="DirectvSports2.co">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados</desc>
+  </programme>
+<programme start="20220426033000 +0200" stop="20220426050000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo</desc>
+  </programme>
+<programme start="20220426050000 +0200" stop="20220426070000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Fútbol Español Copa del Rey</title>
+    <sub-title lang="en">Final: Betis vs. Valencia</sub-title>
+    <desc lang="en">Final de la Copa del Rey 2021-2022. Betis enfrenta a Valencia en el estadio Olímpico de Sevilla. Los béticos llevan 3 juegos sin caer ante los ches (2PG 1PE). La última derrota fue por 2-1 en 2020</desc>
+  </programme>
+<programme start="20220426070000 +0200" stop="20220426090000 +0200" channel="DirectvSports2.co">
+    <title lang="en">El chiringuito de jugones</title>
+    <desc lang="en">Programa deportivo en el que se trata toda la información y las noticias más importantes acerca de los equipos de fútbol español. Ocho tertulianos aportarán su punto de vista sobre los temas a tratar</desc>
+  </programme>
+<programme start="20220426090000 +0200" stop="20220426093000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Atlas, la resistencia del titán</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal</desc>
+  </programme>
+<programme start="20220426093000 +0200" stop="20220426100000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Diario NBA</title>
+    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta</desc>
+  </programme>
+<programme start="20220426100000 +0200" stop="20220426110000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Ciclismo :</title>
+    <sub-title lang="en">Paris-Nice, etapa 8</sub-title>
+    <desc lang="en">Acción de la última etapa de la competencia. Recorrido de 115,6 kilómetros por Niza</desc>
+  </programme>
+<programme start="20220426110000 +0200" stop="20220426130000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Fútbol Femenino Sudamericano Sub 20 2022</title>
+    <sub-title lang="en">Uruguay vs. Colombia</sub-title>
+    <desc lang="en">Uruguay y Colombia se enfrentan en la última jornada de la Ronda Final. Desde el Estadio Municipal Nicolás Chahuán Nazar, en La Calera, Chile</desc>
+  </programme>
+<programme start="20220426130000 +0200" stop="20220426140000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Real Madrid TV</title>
+    <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto</desc>
+  </programme>
+<programme start="20220426140000 +0200" stop="20220426160000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Fútbol Español Copa del Rey</title>
+    <sub-title lang="en">Final: Betis vs. Valencia</sub-title>
+    <desc lang="en">Final de la Copa del Rey 2021-2022. Betis enfrenta a Valencia en el estadio Olímpico de Sevilla. Los béticos llevan 3 juegos sin caer ante los ches (2PG 1PE). La última derrota fue por 2-1 en 2020</desc>
+  </programme>
+<programme start="20220426160000 +0200" stop="20220426170000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Lo mejor de La Liga</title>
+    <desc lang="en">Cobertura de La Liga de España, con comentarios, las mejores jugadas, goles, puntuaciones e información de los próximos partidos</desc>
+  </programme>
+<programme start="20220426170000 +0200" stop="20220426190000 +0200" channel="DirectvSports2.co">
+    <title lang="en">El chiringuito de jugones</title>
+  <desc/></programme>
+<programme start="20220426190000 +0200" stop="20220426193000 +0200" channel="DirectvSports2.co">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados</desc>
+  </programme>
+<programme start="20220426193000 +0200" stop="20220426200000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Diario NBA</title>
+    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta</desc>
+  </programme>
+<programme start="20220426200000 +0200" stop="20220426220000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Fútbol Femenino Sudamericano Sub 20 2022</title>
+    <desc lang="en">Toda la acción del campeonato de fútbol juvenil para los equipos nacionales de mujeres menores de 20 años de la CONMEBOL. Desde Chile</desc>
+  </programme>
+<programme start="20220426220000 +0200" stop="20220427000000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Baloncesto Euroliga</title>
+    <sub-title lang="en">Maccabi Playtika Tel Aviv vs. Real Madrid</sub-title>
+    <desc lang="en">Juego 3 de los playoffs B de la Euroliga 2021-2022. Maccabi Playtika Tel Aviv enfrenta a Real Madrid. Desde el Menora Mivtachim Arena</desc>
+  </programme>
+<programme start="20220427000000 +0200" stop="20220427003000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Diario NBA</title>
+    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta</desc>
+  </programme>
+<programme start="20220427003000 +0200" stop="20220427023000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Baloncesto Euroliga</title>
+    <sub-title lang="en">Anadolu Efes Istanbul vs. AX Armani Exchange Milan</sub-title>
+    <desc lang="en">Juego 3 de los playoffs C de la Euroliga 2021-2022. Anadolu Efes Istanbul enfrenta a AX Armani Exchange Milan. Desde el Sinan Erdem Spor Salonu</desc>
+  </programme>
+<programme start="20220427023000 +0200" stop="20220427033000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Ciclismo : 2022: Paris</title>
+    <sub-title lang="en">Roubaix - 2022: Paris - Roubaix</sub-title>
+    <desc lang="en">El repaso a la edición 2022 de la tradicional prueba ciclística</desc>
+  </programme>
+<programme start="20220427033000 +0200" stop="20220427050000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo</desc>
+  </programme>
+<programme start="20220427050000 +0200" stop="20220427070000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Baloncesto Euroliga</title>
+    <sub-title lang="en">Anadolu Efes Istanbul vs. AX Armani Exchange Milan</sub-title>
+    <desc lang="en">Juego 3 de los playoffs C de la Euroliga 2021-2022. Anadolu Efes Istanbul enfrenta a AX Armani Exchange Milan. Desde el Sinan Erdem Spor Salonu</desc>
+  </programme>
+<programme start="20220427070000 +0200" stop="20220427090000 +0200" channel="DirectvSports2.co">
+    <title lang="en">El chiringuito de jugones</title>
+    <desc lang="en">Programa deportivo en el que se trata toda la información y las noticias más importantes acerca de los equipos de fútbol español. Ocho tertulianos aportarán su punto de vista sobre los temas a tratar</desc>
+  </programme>
+<programme start="20220427090000 +0200" stop="20220427093000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Ranking DIRECTV Sports</title>
+    <desc lang="en">Relato de jugadas, eventos más destacados y las noticias del día contadas desde un costado humorístico y desfachatado. Todos los bloopers, los mejores goles, las burradas, y mucho más</desc>
+  </programme>
+<programme start="20220427093000 +0200" stop="20220427100000 +0200" channel="DirectvSports2.co">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados</desc>
+  </programme>
+<programme start="20220427100000 +0200" stop="20220427103000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Diario NBA</title>
+    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta</desc>
+  </programme>
+<programme start="20220427103000 +0200" stop="20220427110000 +0200" channel="DirectvSports2.co">
+    <title lang="en">FIBA Basketball</title>
+    <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto</desc>
+  </programme>
+<programme start="20220427110000 +0200" stop="20220427130000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Fútbol Femenino Sudamericano Sub 20 2022</title>
+    <sub-title lang="en">Venezuela vs. Brazil</sub-title>
+    <desc lang="en">Venezuela y Brasil se enfrentan en la última jornada de la Ronda Final en el Estadio Municipal Nicolás Chahuán Nazar, La Calera, Chile</desc>
+  </programme>
+<programme start="20220427130000 +0200" stop="20220427140000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Real Madrid TV</title>
+    <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto</desc>
+  </programme>
+<programme start="20220427140000 +0200" stop="20220427160000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Baloncesto Euroliga</title>
+    <sub-title lang="en">Maccabi Playtika Tel Aviv vs. Real Madrid</sub-title>
+    <desc lang="en">Juego 3 de los playoffs B de la Euroliga 2021-2022. Maccabi Playtika Tel Aviv enfrenta a Real Madrid. Desde el Menora Mivtachim Arena</desc>
+  </programme>
+<programme start="20220427160000 +0200" stop="20220427170000 +0200" channel="DirectvSports2.co">
+    <title lang="en">LaLiga SmartBank Highlights 2021-2022</title>
+    <desc lang="en">Un repaso por los mejores goles y la acción más destacada de los campeonatos de la Segunda División y LaLiga de España</desc>
+  </programme>
+<programme start="20220427170000 +0200" stop="20220427190000 +0200" channel="DirectvSports2.co">
+    <title lang="en">El chiringuito de jugones</title>
+  <desc/></programme>
+<programme start="20220427190000 +0200" stop="20220427193000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Diario NBA</title>
+    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta</desc>
+  </programme>
+<programme start="20220427193000 +0200" stop="20220427203000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Ciclismo : 2022: Paris</title>
+    <sub-title lang="en">Roubaix - 2022: Paris - Roubaix</sub-title>
+    <desc lang="en">El repaso a la edición 2022 de la tradicional prueba ciclística</desc>
+  </programme>
+<programme start="20220427203000 +0200" stop="20220427222500 +0200" channel="DirectvSports2.co">
+    <title lang="en">Baloncesto Euroliga</title>
+    <sub-title lang="en">Anadolu Efes Istanbul vs. AX Armani Exchange Milan</sub-title>
+    <desc lang="en">Juego 3 de los playoffs C de la Euroliga 2021-2022. Anadolu Efes Istanbul enfrenta a AX Armani Exchange Milan. Desde el Sinan Erdem Spor Salonu</desc>
+  </programme>
+<programme start="20220427222500 +0200" stop="20220428003000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Baloncesto Euroliga</title>
+    <sub-title lang="en">Bayern Munich vs. Barcelona</sub-title>
+    <desc lang="en">Juego 3 de los playoffs A de la Euroliga 2021-2022. FC Bayern Munich enfrenta a Barcelona. Desde el Audi Dome</desc>
+  </programme>
+<programme start="20220428003000 +0200" stop="20220428013000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Ciclismo :</title>
+    <sub-title lang="en">Paris-Nice, etapa 8</sub-title>
+    <desc lang="en">Acción de la última etapa de la competencia. Recorrido de 115,6 kilómetros por Niza</desc>
+  </programme>
+<programme start="20220428013000 +0200" stop="20220428020000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Diario NBA</title>
+    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta</desc>
+  </programme>
+<programme start="20220428020000 +0200" stop="20220428023000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Mobil 1 The Grid</title>
+    <desc lang="en">Destacados de deportes de motor a nivel nacional en un dinámico formato magazín</desc>
+  </programme>
+<programme start="20220428023000 +0200" stop="20220428030000 +0200" channel="DirectvSports2.co">
+    <title lang="en">FIBA Basketball</title>
+    <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto</desc>
+  </programme>
+<programme start="20220428030000 +0200" stop="20220428033000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Diario NBA</title>
+    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta</desc>
+  </programme>
+<programme start="20220428033000 +0200" stop="20220428050000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo</desc>
+  </programme>
+<programme start="20220428050000 +0200" stop="20220428070000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Baloncesto Euroliga</title>
+    <sub-title lang="en">Bayern Munich vs. Barcelona</sub-title>
+    <desc lang="en">Juego 3 de los playoffs A de la Euroliga 2021-2022. FC Bayern Munich enfrenta a Barcelona. Desde el Audi Dome</desc>
+  </programme>
+<programme start="20220428070000 +0200" stop="20220428090000 +0200" channel="DirectvSports2.co">
+    <title lang="en">El chiringuito de jugones</title>
+    <desc lang="en">Programa deportivo en el que se trata toda la información y las noticias más importantes acerca de los equipos de fútbol español. Ocho tertulianos aportarán su punto de vista sobre los temas a tratar</desc>
+  </programme>
+<programme start="20220428090000 +0200" stop="20220428093000 +0200" channel="DirectvSports2.co">
+    <title lang="en">DIRECTV Sports Gaming</title>
+    <desc lang="en">Diego Korol junto a Kevo, Dalcru y Carolo. Te traen la mejor información, entrevistas y todas las novedades del mundo gamer</desc>
+  </programme>
+<programme start="20220428093000 +0200" stop="20220428100000 +0200" channel="DirectvSports2.co">
+    <title lang="en">FIBA Basketball</title>
+    <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto</desc>
+  </programme>
+<programme start="20220428100000 +0200" stop="20220428130000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Barca TV</title>
+    <sub-title lang="en">LaLiga 2021-2022: Barcelona vs. Rayo Vallecano</sub-title>
+    <desc lang="en">Jornada 21. Partido disputado el 24 de abril de 2022</desc>
+  </programme>
+<programme start="20220428130000 +0200" stop="20220428140000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Real Madrid TV</title>
+    <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto</desc>
+  </programme>
+<programme start="20220428140000 +0200" stop="20220428160000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Baloncesto Euroliga</title>
+    <sub-title lang="en">Bayern Munich vs. Barcelona</sub-title>
+    <desc lang="en">Juego 3 de los playoffs A de la Euroliga 2021-2022. FC Bayern Munich enfrenta a Barcelona. Desde el Audi Dome</desc>
+  </programme>
+<programme start="20220428160000 +0200" stop="20220428170000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Maratón de París</title>
+    <sub-title lang="en">2022</sub-title>
+    <desc lang="en">Lo mejor de la acción de la carrera de 2022 del Maratón de París</desc>
+  </programme>
+<programme start="20220428170000 +0200" stop="20220428190000 +0200" channel="DirectvSports2.co">
+    <title lang="en">El chiringuito de jugones</title>
+  <desc/></programme>
+<programme start="20220428190000 +0200" stop="20220428193000 +0200" channel="DirectvSports2.co">
+    <title lang="en">FIBA Basketball</title>
+    <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto</desc>
+  </programme>
+<programme start="20220428193000 +0200" stop="20220428200000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Diario NBA</title>
+    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta</desc>
+  </programme>
+<programme start="20220428200000 +0200" stop="20220428210000 +0200" channel="DirectvSports2.co">
+    <title lang="en">LaLiga SmartBank Highlights 2021-2022</title>
+    <desc lang="en">Un repaso por los mejores goles y la acción más destacada de los campeonatos de la Segunda División y LaLiga de España</desc>
+  </programme>
+<programme start="20220428210000 +0200" stop="20220428220000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Lo mejor de La Liga</title>
+    <desc lang="en">Cobertura de La Liga de España, con comentarios, las mejores jugadas, goles, puntuaciones e información de los próximos partidos</desc>
+  </programme>
+<programme start="20220428220000 +0200" stop="20220429000000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Baloncesto Euroliga</title>
+    <sub-title lang="en">Maccabi Playtika Tel Aviv vs. Real Madrid</sub-title>
+    <desc lang="en">Juego 3 de los playoffs B de la Euroliga 2021-2022. Maccabi Playtika Tel Aviv enfrenta a Real Madrid. Desde el Menora Mivtachim Arena</desc>
+  </programme>
+<programme start="20220429000000 +0200" stop="20220429020000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Baloncesto Euroliga</title>
+    <sub-title lang="en">Anadolu Efes Istanbul vs. AX Armani Exchange Milan</sub-title>
+    <desc lang="en">Juego 3 de los playoffs C de la Euroliga 2021-2022. Anadolu Efes Istanbul enfrenta a AX Armani Exchange Milan. Desde el Sinan Erdem Spor Salonu</desc>
+  </programme>
+<programme start="20220429020000 +0200" stop="20220429023000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Diario NBA</title>
+    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta</desc>
+  </programme>
+<programme start="20220429023000 +0200" stop="20220429030000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Acción de la NBA</title>
+    <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados</desc>
+  </programme>
+<programme start="20220429030000 +0200" stop="20220429033000 +0200" channel="DirectvSports2.co">
+    <title lang="en">FIBA Basketball</title>
+    <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto</desc>
+  </programme>
+<programme start="20220429033000 +0200" stop="20220429040000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Diario NBA</title>
+    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta</desc>
+  </programme>
+<programme start="20220429040000 +0200" stop="20220429063000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Fútbol CONMEBOL Sudamericana</title>
+    <sub-title lang="en">Oriente Petrolero vs. Junior</sub-title>
+    <desc lang="en">Jornada 3 del Grupo H. Oriente Petrolero enfrenta a Junior en el estadio Ramón Aguilera Costas. El Albiverde pretende sumar por primera vez y así mantener chances de clasificación. El Tiburón suma 4 puntos y viene de vencer 3-0 a Fluminense</desc>
+  </programme>
+<programme start="20220429063000 +0200" stop="20220429070000 +0200" channel="DirectvSports2.co">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados</desc>
+  </programme>
+<programme start="20220429070000 +0200" stop="20220429090000 +0200" channel="DirectvSports2.co">
+    <title lang="en">El chiringuito de jugones</title>
+    <desc lang="en">Programa deportivo en el que se trata toda la información y las noticias más importantes acerca de los equipos de fútbol español. Ocho tertulianos aportarán su punto de vista sobre los temas a tratar</desc>
+  </programme>
+<programme start="20220429090000 +0200" stop="20220429093000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Rally Argentino DIRECTV</title>
+    <desc lang="en">El resumen más completo con lo mejor del Rally Argentino, la categoría más importante de rally del país</desc>
+  </programme>
+<programme start="20220429093000 +0200" stop="20220429100000 +0200" channel="DirectvSports2.co">
+    <title lang="en">MLR Highlights</title>
+    <desc lang="en">Lo más destacado de los partidos de la Major League Rugby</desc>
+  </programme>
+<programme start="20220429100000 +0200" stop="20220429103000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Ranking DIRECTV Sports</title>
+    <desc lang="en">Relato de jugadas, eventos más destacados y las noticias del día contadas desde un costado humorístico y desfachatado. Todos los bloopers, los mejores goles, las burradas, y mucho más</desc>
+  </programme>
+<programme start="20220429103000 +0200" stop="20220429110000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Rally Argentino DIRECTV</title>
+    <desc lang="en">El resumen más completo con lo mejor del Rally Argentino, la categoría más importante de rally del país</desc>
+  </programme>
+<programme start="20220429110000 +0200" stop="20220429130000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Major League Rugby :</title>
+    <sub-title lang="en">Rugby ATL vs. San Diego Legion</sub-title>
+    <desc lang="en">Acción de la Major League Rugby. San Diego Legion enfrenta a Rugby ATL en el Torero Stadium</desc>
+  </programme>
+<programme start="20220429130000 +0200" stop="20220429140000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Real Madrid TV</title>
+    <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto</desc>
+  </programme>
+<programme start="20220429140000 +0200" stop="20220429160000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Fútbol Español Copa del Rey</title>
+    <sub-title lang="en">Final: Betis vs. Valencia</sub-title>
+    <desc lang="en">Final de la Copa del Rey 2021-2022. Betis enfrenta a Valencia en el estadio Olímpico de Sevilla. Los béticos llevan 3 juegos sin caer ante los ches (2PG 1PE). La última derrota fue por 2-1 en 2020</desc>
+  </programme>
+<programme start="20220429160000 +0200" stop="20220429170000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Lo mejor de La Liga</title>
+    <desc lang="en">Cobertura de La Liga de España, con comentarios, las mejores jugadas, goles, puntuaciones e información de los próximos partidos</desc>
+  </programme>
+<programme start="20220429170000 +0200" stop="20220429190000 +0200" channel="DirectvSports2.co">
+    <title lang="en">El chiringuito de jugones</title>
+  <desc/></programme>
+<programme start="20220429190000 +0200" stop="20220429193000 +0200" channel="DirectvSports2.co">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados</desc>
+  </programme>
+<programme start="20220429193000 +0200" stop="20220429200000 +0200" channel="DirectvSports2.co">
+    <title lang="en">FIBA Basketball</title>
+    <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto</desc>
+  </programme>
+<programme start="20220429200000 +0200" stop="20220429203000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Diario NBA</title>
+    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta</desc>
+  </programme>
+<programme start="20220429203000 +0200" stop="20220429223000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Baloncesto Euroliga</title>
+    <sub-title lang="en">Maccabi Playtika Tel Aviv vs. Real Madrid</sub-title>
+    <desc lang="en">Juego 3 de los playoffs B de la Euroliga 2021-2022. Maccabi Playtika Tel Aviv enfrenta a Real Madrid. Desde el Menora Mivtachim Arena</desc>
+  </programme>
+<programme start="20220429223000 +0200" stop="20220430003000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Baloncesto Euroliga</title>
+    <sub-title lang="en">Bayern Munich vs. Barcelona</sub-title>
+    <desc lang="en">Juego 3 de los playoffs A de la Euroliga 2021-2022. FC Bayern Munich enfrenta a Barcelona. Desde el Audi Dome</desc>
+  </programme>
+<programme start="20220430003000 +0200" stop="20220430010000 +0200" channel="DirectvSports2.co">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados</desc>
+  </programme>
+<programme start="20220430010000 +0200" stop="20220430013000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Diario NBA</title>
+    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta</desc>
+  </programme>
+<programme start="20220430013000 +0200" stop="20220430023000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Ciclismo : 2022: Paris</title>
+    <sub-title lang="en">Roubaix - 2022: Paris - Roubaix</sub-title>
+    <desc lang="en">El repaso a la edición 2022 de la tradicional prueba ciclística</desc>
+  </programme>
+<programme start="20220430023000 +0200" stop="20220430030000 +0200" channel="DirectvSports2.co">
+    <title lang="en">Mobil 1 The Grid</title>
+    <desc lang="en">Destacados de deportes de motor a nivel nacional en un dinámico formato magazín</desc>
+  </programme>
+<programme start="20220430030000 +0200" stop="20220430033000 +0200" channel="DirectvSports2.co">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados [(124033)]</desc>
   </programme>
 <programme start="20220424030000 +0200" stop="20220424033000 +0200" channel="DirectvSportsPlus.co">
     <title lang="en">Moving</title>
@@ -14329,17 +14844,17 @@
     <category lang="es">La última palabra</category>
     <icon src="https://cdn.mitvstatic.com/programs/mx_futbol-la-ultima-palabra_l_m.jpg"/>
   </programme>
-<programme start="20220427070000 +0200" stop="20220427070000 +0200" channel="FoxSports.mx">
-    <title lang="es">Fox Sports</title>
-    <category lang="es">Fox Sports</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_deportivo-fox-sports_l_m.jpg"/>
-  <desc/></programme>
 <programme start="20220427070000 +0200" stop="20220427080000 +0200" channel="FoxSports.mx">
     <title lang="es">Central Fox</title>
     <desc lang="es">La nueva central de deportes para revolucionar la cobertura informativa. Cinco horas y media en vivo por día con toda la información deportiva a nivel mundial y los más destacados columnistas</desc>
     <category lang="es">Central Fox</category>
     <icon src="https://cdn.mitvstatic.com/programs/mx_noticiero-central-fox_l_m.jpg"/>
   </programme>
+<programme start="20220427070000 +0200" stop="20220427070000 +0200" channel="FoxSports.mx">
+    <title lang="es">Fox Sports</title>
+    <category lang="es">Fox Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_deportivo-fox-sports_l_m.jpg"/>
+  <desc/></programme>
 <programme start="20220427080000 +0200" stop="20220427100000 +0200" channel="FoxSports.mx">
     <title lang="es">CF Monterrey (Méx) vs. Club América (Mex)</title>
     <desc lang="es">La Liga de Campeones de la CONCACAF 2021, es la 13º edición de la Liga de Campeones de la CONCACAF bajo su actual nombre, y en general la 56º edición de la principal competición a nivel de clubes organizada por la CONCACAF, el organismo regulador del fútbol en América del Norte, América Central, y el Caribe. El campeón del certamen representará a la región en la Copa Mundial de Clubes 2021</desc>
@@ -14459,13 +14974,13 @@
     <category lang="es">La última palabra</category>
     <icon src="https://cdn.mitvstatic.com/programs/mx_futbol-la-ultima-palabra_l_m.jpg"/>
   </programme>
-<programme start="20220428073000 +0200" stop="20220428083000 +0200" channel="FoxSports.mx">
+<programme start="20220428073000 +0200" stop="20220428073000 +0200" channel="FoxSports.mx">
     <title lang="es">Central Fox</title>
     <desc lang="es">La nueva central de deportes para revolucionar la cobertura informativa. Cinco horas y media en vivo por día con toda la información deportiva a nivel mundial y los más destacados columnistas</desc>
     <category lang="es">Central Fox</category>
     <icon src="https://cdn.mitvstatic.com/programs/mx_noticiero-central-fox_l_m.jpg"/>
   </programme>
-<programme start="20220428073000 +0200" stop="20220428073000 +0200" channel="FoxSports.mx">
+<programme start="20220428073000 +0200" stop="20220428083000 +0200" channel="FoxSports.mx">
     <title lang="es">Central Fox</title>
     <desc lang="es">La nueva central de deportes para revolucionar la cobertura informativa. Cinco horas y media en vivo por día con toda la información deportiva a nivel mundial y los más destacados columnistas</desc>
     <category lang="es">Central Fox</category>
@@ -15031,17 +15546,17 @@
     <category lang="es">Fecha 16, Estadio TSM Corona</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-<programme start="20220426070000 +0200" stop="20220426070000 +0200" channel="FoxSports2.mx">
-    <title lang="es">Fox Sports 2</title>
-    <category lang="es">Fox Sports 2</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_deportivo-fox-sports-2_l_m.jpg"/>
-  <desc/></programme>
 <programme start="20220426070000 +0200" stop="20220426080000 +0200" channel="FoxSports2.mx">
     <title lang="es">La última palabra</title>
     <desc lang="es">André Marin, y un gran equipo de analistas. Disfrutarás del mejor y más completo análisis y debate deportivo. El programa se ha convertido en un referente ineludible del ambiente futbolístico y en uno de los shows deportivos favoritos de los países latinoamericanos de habla hispana</desc>
     <category lang="es">La última palabra</category>
     <icon src="https://cdn.mitvstatic.com/programs/mx_futbol-la-ultima-palabra_l_m.jpg"/>
   </programme>
+<programme start="20220426070000 +0200" stop="20220426070000 +0200" channel="FoxSports2.mx">
+    <title lang="es">Fox Sports 2</title>
+    <category lang="es">Fox Sports 2</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_deportivo-fox-sports-2_l_m.jpg"/>
+  <desc/></programme>
 <programme start="20220426080000 +0200" stop="20220426090000 +0200" channel="FoxSports2.mx">
     <title lang="es">Central Fox</title>
     <desc lang="es">La nueva central de deportes para revolucionar la cobertura informativa. Cinco horas y media en vivo por día con toda la información deportiva a nivel mundial y los más destacados columnistas</desc>
@@ -17664,7 +18179,7 @@
       <value>6.5</value>
     </star-rating>
   </programme>
-<programme start="20220424070400 +0200" stop="20220424070400 +0200" channel="GoldenEdge.mx">
+<programme start="20220424070400 +0200" stop="20220424103800 +0200" channel="GoldenEdge.mx">
     <title lang="es">American Pie, campamento de bandas</title>
     <title lang="xx">American Pie Presents: Band Camp</title>
     <desc lang="es">Matt Stifler quiere ser como su hermano mayor Steve, ahora convertido en un gran productor de películas pornográficas de Hollywood. Pero a pesar de todos sus intentos no logra emularlo y se transforma en el hazmerreír del grupo</desc>
@@ -17688,7 +18203,7 @@
       <value>7.0</value>
     </star-rating>
   </programme>
-<programme start="20220424070400 +0200" stop="20220424103800 +0200" channel="GoldenEdge.mx">
+<programme start="20220424070400 +0200" stop="20220424070400 +0200" channel="GoldenEdge.mx">
     <title lang="es">American Pie, campamento de bandas</title>
     <title lang="xx">American Pie Presents: Band Camp</title>
     <desc lang="es">Matt Stifler quiere ser como su hermano mayor Steve, ahora convertido en un gran productor de películas pornográficas de Hollywood. Pero a pesar de todos sus intentos no logra emularlo y se transforma en el hazmerreír del grupo</desc>
